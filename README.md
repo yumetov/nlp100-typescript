@@ -1,0 +1,2 @@
+# nlp100-typescript
+言語処理100本ノックにTypeScriptで取り組んだ記録
